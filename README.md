@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LukisG
-- 👀 I’m interested in HTML, CSS, JS.
+- 👀 I’m interested in HTML, CSS, JS, React.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on HTML projects.
 - 📫 How to reach me lukas.moderator@gmail.com
